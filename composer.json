@@ -1,6 +1,6 @@
 {
-    "name": "pillbox/elasticsuite",
-    "description": "Pillbox Sonassi Elastic",
+    "name": "pillbox/elasticsuite-son",
+    "description": "Pillbox Elastic - Sonassi",
     "require": {
         "magento/framework": ">=101.0.0",
         "magento/module-store": ">=100.2.0",
